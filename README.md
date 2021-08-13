@@ -39,16 +39,16 @@
 | MAIL_TO | 收信邮箱 | xxx.qq.com |
 | SWITCH | 自动发布开关 | on |
 
-![image](https://user-images.githubusercontent.com/21220871/124370464-ba1dd380-dcaa-11eb-9c51-30cab0fdf98c.png)
+![image](https://user-images.githubusercontent.com/21220871/124370464-ba1dd380-dcaa-11eb-9c51-30cab0fdf98c.png)     
 
 
 ### 3. 运行  Github Action ▶️
 
 ![image](https://user-images.githubusercontent.com/21220871/124370473-cf92fd80-dcaa-11eb-8238-e8f04a8c9828.png)
+    
+ps：默认情况下提交代码到 master 分支就会触发一次构建。   
 
-ps：默认情况下提交代码到 master 分支就会触发一次构建。
-
-关于如何配置以及启动 可以查看我的掘金文章 [ Github Action 的简单使用 ](https://juejin.cn/post/6969119163293892639)
+关于如何配置以及启动 可以查看我的掘金文章 [ Github Action 的简单使用 ](https://juejin.cn/post/6969119163293892639)    
 
 ### 4. 查看运行结果 😬
 
