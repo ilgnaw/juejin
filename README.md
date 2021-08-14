@@ -10,14 +10,14 @@
 - Selenium 模拟浏览器操作     
 - 滑块验证码识别
 - request 发送 HTTP 请求   
-- Github Action 部署项目
+- Github Action 部署项目 
 
 如果你有兴趣可以查看[我掘金的专栏](https://juejin.cn/column/6980219687397228551)，可以一步步了解我是如何实现这个项目的。
   
 
 ## 项目部署 🥳
 
-目前仅实现了 Github Action 的部署方式，因为我觉得这种方式最适合这个项目。
+目前仅实现了 Github Action 的部署方式，因为我觉得这种方式最适合这个项目。   
 
 ### 1. Fork 项目 🔗    
 
@@ -92,7 +92,7 @@ python3  core/juejin.py
 
 在写此项目的时候只考虑到个人使用帐号进行发布文章，所以此项目适合使用  [Github Action](https://docs.github.com/cn/actions) 进行部署。
 
-当然如果你有自己的服务器，那么我有如下建议：
+当然如果你有自己的服务器，那么我有如下建议：     
 
 - 缓存 Selenium 获取到的 cookie （掘金的 cookie过期时间似乎是两个月）。
 
