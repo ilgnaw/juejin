@@ -8,7 +8,7 @@
 主要的技术点如下：            
  
 - Selenium 模拟浏览器操作     
-- 滑块验证码识别
+- 滑块验证码识别 
 - request 发送 HTTP 请求   
 - Github Action 部署项目 
 
